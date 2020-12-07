@@ -10,6 +10,7 @@ Ejemplo tengo uno en
 
 ```
 https://my-json-server.typicode.com/jcvaldes/apifake
+
 https://my-json-server.typicode.com/jcvaldes/apifake/courses
 https://my-json-server.typicode.com/jcvaldes/apifake/courses/1
 ```
