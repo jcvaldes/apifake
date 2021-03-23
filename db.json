@@ -74,10 +74,12 @@
   "products": [
     {
       "id": 1,
+      "code": "1212",
       "name": "product 1"
     },
     {
       "id": 2,
+      "code": "1213",
       "name": "product 2"
     }
   ],
