@@ -92,5 +92,15 @@
         "id": 2,
         "name": "serv 2"
       } 
-  ]
+  ],
+  "companies": [
+    {
+        "id": 1,
+        "name": "Negocio 1"
+      },
+      {
+        "id": 2,
+        "name": "Negocio 2"
+      } 
+  ],
 }
