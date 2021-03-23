@@ -1,0 +1,32 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Consumiendo APIs con Blazor",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/medium/d438e9fa-77f0-4184-9d70-dd7778c309ec.png",
+      "price": 70,
+      "teacher": "Beto Quiroga"
+    },
+    {
+      "id": 2,
+      "title": "Scripting - Bash / Shell",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/medium/bdf0b692-eef2-411b-8502-56d1d93fa85d.png",
+      "price": 40,
+      "teacher": "Diego Blas"
+    },
+    {
+      "id": 3,
+      "title": "HTML canvas desde cero",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/medium/c574aade-f5b4-42ae-9d92-6b05e7919f4d.png",
+      "price": 40,
+      "teacher": "Diego Adrian Barra"
+    },
+    {
+      "id": 4,
+      "title": "Adruino desde Cero",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/medium/1bada4e8-4bab-4be8-8f2e-83e285515187.png",
+      "price": 50,
+      "teacher": "Andres Nino"
+    }
+  ]
+}
