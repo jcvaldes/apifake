@@ -81,7 +81,7 @@
       "name": "product 2"
     }
   ],
-  "service": [
+  "services": [
     {
         "id": 1,
         "name": "serv 1"
